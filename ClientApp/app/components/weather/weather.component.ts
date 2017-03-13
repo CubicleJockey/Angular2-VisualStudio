@@ -12,12 +12,12 @@ export class WeatherComponent {
         const self = this;
 
         self.title = 'Weather Check';
-        self.weather = { temp: '68', summary: 'Okay weather in Washington', city: 'Kirkland' };
+        self.weather = { temp: 68, summary: 'Okay weather in Washington', city: 'Kirkland' };
     }
 }
 
 interface IWeather {
-    temp: string;
+    temp: number;
     summary: string;
     city: string;
 }
