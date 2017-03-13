@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutoin Items", "Solutoin Items", "{E7605742-4C76-4026-8D8A-E4B2C7FD7AB5}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular2App", "Angular2App.csproj", "{FBDAD4E2-DFAB-4184-8E92-9F08312BD94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDAD4E2-DFAB-4184-8E92-9F08312BD94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDAD4E2-DFAB-4184-8E92-9F08312BD94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDAD4E2-DFAB-4184-8E92-9F08312BD94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDAD4E2-DFAB-4184-8E92-9F08312BD94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
