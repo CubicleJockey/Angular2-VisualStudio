@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Angular2_VS_QuickStart.Controllers
+namespace Angular2App.Controllers
 {
     public class HomeController : Controller
     {
